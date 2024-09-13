@@ -5,6 +5,7 @@ public class helloWorld {
 
 	        // Prints "Hello, World" in the terminal window.
 	        System.out.println("Hello, World");
+                System.out.println("I have been in Beloit for 3 years and 9 months");
 	    }
 
 }
